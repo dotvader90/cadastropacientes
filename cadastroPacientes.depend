@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1605987328 source:c:\users\matheussilvaprimo\documents\workspace\unip\pim-iv\cadastropacientes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<stdbool.h>
+
